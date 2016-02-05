@@ -19,7 +19,7 @@ Then, add android-aspectj-plugin to your buildscript dependencies:
 ```gradle
 buildscript {
     dependencies {
-        classpath 'com.github.oriley-me:android-aspectj-plugin:0.1'
+        classpath 'me.oriley:android-aspectj-plugin:0.1'
     }
 }
 ```
